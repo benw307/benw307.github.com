@@ -11,3 +11,20 @@ h1 {
 	text-decoration: underline;
 	text-transform: capitalize;
 }
+
+li {
+	color: #0000a0;
+	font-family: Arial, "MS Serif", sans-serif;
+	font-size: 12px;
+	text-align: center;
+
+}
+
+
+table, tr {
+	border-color: #008000;
+	border-style: solid;
+	border-width: 2pt;
+	color: #400040;
+	font-family: Arial;
+}
