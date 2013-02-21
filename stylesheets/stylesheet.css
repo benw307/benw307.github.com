@@ -1,4 +1,4 @@
-header {
+.header {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 16px;
 	text-decoration: underline;
@@ -7,11 +7,11 @@ header {
 	text-align: left;
 }
 
-list {
+.list {
 	font-weight: bold;
 	text-align: left;
 }
-table2 {
+.table2 {
 	border-top-width: medium;
 	border-right-width: medium;
 	border-bottom-width: medium;
@@ -21,11 +21,11 @@ table2 {
 	border-bottom-style: solid;
 	border-left-style: solid;
 }
-image {
+.image {
 	position: fixed;
 	top: auto;
 }
-favorite {
+.favorite {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 18px;
 	font-style: normal;
@@ -41,7 +41,7 @@ favorite {
 	position: relative;
 }
 
-test {
+.test {
 	display: inline-block;
 	width: 600px;
 }
