@@ -3,9 +3,7 @@
 	font-size: 16px;
 	text-decoration: underline;
 	background-color: #0FC;
-	width: 250px;
 	position: relative;
-	height: 25px;
 	text-align: left;
 }
 
@@ -24,8 +22,6 @@
 	border-left-style: solid;
 }
 .image {
-	height: 200px;
-	width: 200px;
 	position: fixed;
 	top: auto;
 }
@@ -43,6 +39,9 @@
 	border-bottom-style: solid;
 	border-left-style: solid;
 	position: relative;
-	width: 250px;
-	height: 25px;
 }
+
+.test {
+	display:inline-block;
+}
+
