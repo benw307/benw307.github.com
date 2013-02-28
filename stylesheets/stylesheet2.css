@@ -41,14 +41,21 @@
 	position: relative;
 }
 
-div {
-	background-color: black;
+.test {
+	display: inline-block;
+	width: 600px;
 }
 
 
 
 
 
+h3{
+	color: black;
+	background-color: black;
+	border: solid;
+	
+}
 
 
 
