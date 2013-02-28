@@ -1,3 +1,17 @@
-c 	{ 
-	background-color:black; 
-	}
+.ben1 {
+	background-color: #3C9;
+	width: 600px;
+	display: inline;
+	border-top-style: dotted;
+	border-right-style: dotted;
+	border-bottom-style: dotted;
+	border-left-style: dotted;
+	position: relative;
+	right: auto;
+}
+        
+.ben2 {
+	background-color: #3F6;
+	width: 600px;
+}
+        
