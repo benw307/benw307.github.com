@@ -1,66 +1,48 @@
-.header {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 16px;
-	text-decoration: underline;
-	background-color: #0FC;
-	position: relative;
-	text-align: left;
+
+* {
+	border: 1px dashed blue;
 }
 
-.list {
-	font-weight: bold;
-	text-align: left;
-}
-.table2 {
-	border-top-width: medium;
-	border-right-width: medium;
-	border-bottom-width: medium;
-	border-left-width: medium;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-}
-.image {
-	position: fixed;
-	top: auto;
-}
-.favorite {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
-	font-style: normal;
-	line-height: normal;
-	border-top-width: medium;
-	border-right-width: medium;
-	border-bottom-width: medium;
-	border-left-width: medium;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	position: relative;
+/*div {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+    display:inline-block;
+*/
+
+.a {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+    display:inline-block;
+	
 }
 
-.test {
-	display: inline-block;
-	width: 600px;
-}
-
-
-
-
-
-h3{
-	color: black;
-	background-color: black;
-	border: solid;
+.b {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+    display:block;
 	
 }
 
 
+#one {
+	background-color: #FF0000;
+}
 
+#two {
+	background-color: #0000FF;
+}
 
+#three {
+	background-color: #FFD700;
+}
 
-
-
+#four {
+	background-color: #308014;
+}
 
